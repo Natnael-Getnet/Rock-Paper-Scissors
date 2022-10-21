@@ -1,6 +1,9 @@
 # Rock Paper Scissors ASCII Art
 
 # Rock
+
+RPS = ['r', 'p', 's']
+
 rock = ("""
     _______
 ---'   ____)
